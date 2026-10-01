@@ -1,74 +1,31 @@
-<h2 align="left">Hi !.</h2>
+# Qatada Azzeh
 
-###
+Software Engineer building reliable web applications and backend systems.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qatadaazzeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qatadaazzeh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I work remotely from Amman, Jordan, and I am currently completing a B.Sc. in Computer Science at Applied Science Private University, expected 2027. My work focuses on production web systems: APIs, authentication, database performance, and maintainable frontend experiences.
 
-###
+## Focus
 
-<img align="right" height="150" src="https://i.imgflip.com/2/8gg6cb.jpg"  />
+- Backend & APIs - Symfony, PHP, Node.js, TypeScript, REST, PostgreSQL, MySQL, Redis
+- Frontend - Angular, React, Next.js
+- Engineering - Docker, CI/CD, Linux, Nginx, testing, caching, debugging
+- Problem solving - algorithms, competitive programming, C++
 
-###
+## Selected projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+- **[AtCoder API](https://github.com/qatadaazzeh/atcoder-api)**  
+  TypeScript client for AtCoder contest and user data, with rate limiting, caching, typed models, and tests.
 
-###
+- **[E-commerce frontend](https://github.com/qatadaazzeh/frontend)**  
+  Angular 20 application with authentication, route guards, product search and filtering, cart persistence, checkout, Docker, and environment-based API configuration.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/qatada-azzeh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- **[E-commerce backend](https://github.com/qatadaazzeh/backend)**  
+  Backend API supporting the frontend application, including authentication, products, orders, and database-backed business flows.
 
-###
+## Beyond work
 
-<br clear="both">
+I enjoy building developer tools and competing in programming contests.
 
-<img src="https://raw.githubusercontent.com/qatadaazzeh/qatadaazzeh/output/snake.svg" alt="Snake animation" />
+## Connect
 
-###
-
-<p align="left">An Dariii</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qatadaazzeh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=qatadaazzeh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=qatadaazzeh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qatadaazzeh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-
-###
+[LinkedIn](https://www.linkedin.com/in/qatada-azzeh/)
